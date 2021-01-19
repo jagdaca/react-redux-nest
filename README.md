@@ -22,7 +22,7 @@
       <ul>
         <li><a href="#built-with">Built With</a></li>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#installation-and-execution">Installation and Execution</a></li>
       </ul>
     </li>
     <li><a href="#contact">Contact</a></li>
