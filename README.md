@@ -82,7 +82,7 @@
    npm install
    ```
 3. Modify app.module.ts, point it to your MySQL DB and provide valid credentials.
-![module-backend](hhttps://github.com/jagdaca/react-redux-nest/blob/main/blob/module-backend.jpg?raw=true)
+![module-backend](https://github.com/jagdaca/react-redux-nest/blob/main/blob/module-backend.jpg?raw=true)
 
 4. Run
    ```sh
