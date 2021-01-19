@@ -58,6 +58,7 @@
    ```
 2. Run your MySQL DB
 
+
 * React-Redux
 1. Change directory to frontend-react-redux
    ```sh
@@ -71,6 +72,7 @@
    ```sh
    npm start
    ```
+   
    
 * NestJS
 1. Change directory to backend-nest
@@ -88,6 +90,7 @@
    ```sh
    npm start
    ```
+
 
 * Populate DB
 1. USERS => The registration page of frontend can only create "member" users, use an API tool to create "admin" users by making a POST request at the 
